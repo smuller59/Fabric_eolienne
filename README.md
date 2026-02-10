@@ -29,4 +29,4 @@ Ce projet implémente une architecture Medallion (Bronze/Silver/Gold) complète 
 ---
 
 *Projet réalisé dans le cadre d'une formation sur Microsoft Fabric*
-*Date de début : 16 novembre 2025*
+*Date de début : 10 février 2026*
